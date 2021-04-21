@@ -38,7 +38,8 @@ namespace PresenceCommon
             assets.LargeImageText = title.Name;
             if (title.ProgramId != 0xffaadd23)
             {
-                assets.SmallImageText = "SwitchPresence-Rewritten";
+                // assets.SmallImageText = "Nintendo Switch";
+                assets.SmallImageText = assets.SmallImageText;
 
                 if (!SwitchOverrides.ContainsKey($"0{title.ProgramId:x}"))
                 {

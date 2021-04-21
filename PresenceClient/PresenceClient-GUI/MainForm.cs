@@ -366,5 +366,12 @@ namespace PresenceClient_GUI
         private void CheckMainMenu_CheckedChanged(object sender, EventArgs e) => ManualUpdate = true;
 
         private void UseMacDefault_CheckedChanged(object sender, EventArgs e) => HasSeenMacPrompt = true;
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => Process.Start($"https://github.com/JaLDesign/PresenceClient");
+
+        private void statusLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
