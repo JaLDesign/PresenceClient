@@ -1,4 +1,4 @@
-#Folk of https://github.com/HeadpatServices/PresenceClient focusing on the GUI parts and minor tweaks.
+# Folk of https://github.com/HeadpatServices/PresenceClient focusing on the GUI parts and minor tweaks.
 
 # PresenceClient
 Set your Discord rich presence using [SwitchPresence-Rewritten](https://github.com/Sun-Research-University/SwitchPresence-Rewritten) or [QuestPresence](https://github.com/Sun-Research-University/QuestPresence) running this app on your PC.
@@ -12,5 +12,5 @@ If you're using SwitchPresence, your icon name will the application title ID, th
 
 Finally to connect you will need your device's IP for QuestPresence this will be on main application page and for SwitchPresence you will have to find it in the connection settings of the switch.
 
-# Support
-If you still need further asstiance you can find us on [Discord](https://link.headpat.services/discord)!
+# Support []
+This Folk does not offer any offical support, nor will is it up to any other author to fix a issue with this folk. If you wish for a stable then please use the build from headpat.
