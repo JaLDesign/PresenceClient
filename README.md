@@ -1,7 +1,7 @@
-# Folk of https://github.com/HeadpatServices/PresenceClient focusing on the GUI parts and minor tweaks.
-
 # PresenceClient
 Set your Discord rich presence using [SwitchPresence-Rewritten](https://github.com/Sun-Research-University/SwitchPresence-Rewritten) or [QuestPresence](https://github.com/Sun-Research-University/QuestPresence) running this app on your PC.
+
+### Folk of https://github.com/HeadpatServices/PresenceClient focusing on the GUI parts and minor tweaks.
 
 # Setup
 Simply Create an application at the [Discord Developer Portal](https://discordapp.com/developers/applications/) call your application `Nintendo Switch`, `Oculus Quest` or whatever you would like and then enter your client ID and Device's IP into PresenceClient!<br>
@@ -14,3 +14,4 @@ Finally to connect you will need your device's IP for QuestPresence this will be
 
 # Support []
 This Folk does not offer any offical support, nor will is it up to any other author to fix a issue with this folk. If you wish for a stable then please use the build from headpat.
+### Folk of https://github.com/HeadpatServices/PresenceClient focusing on the GUI parts and minor tweaks.
