@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PresenceClient",
+    "\\PresenceClient\\packages",
+    "\\PresenceClient\\PresenceClient-GUI",
+    "\\PresenceClient\\PresenceClient-GUI\\Properties",
+    "\\PresenceClient\\PresenceClient-GUI\\Resources",
+    "\\PresenceClient\\PresenceCommon"
+  ],
+  "SelectedNode": "\\PresenceClient\\PresenceClient-GUI\\MainForm.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

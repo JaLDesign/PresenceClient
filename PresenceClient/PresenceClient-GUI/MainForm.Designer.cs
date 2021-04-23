@@ -239,7 +239,7 @@
             // checkTray
             // 
             this.checkTray.AutoSize = true;
-            this.checkTray.Location = new System.Drawing.Point(0, 261);
+            this.checkTray.Location = new System.Drawing.Point(1, 266);
             this.checkTray.Name = "checkTray";
             this.checkTray.Size = new System.Drawing.Size(102, 17);
             this.checkTray.TabIndex = 15;
@@ -281,7 +281,7 @@
             // 
             this.linkLabel2.AutoSize = true;
             this.linkLabel2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.linkLabel2.Location = new System.Drawing.Point(131, 262);
+            this.linkLabel2.Location = new System.Drawing.Point(133, 265);
             this.linkLabel2.MinimumSize = new System.Drawing.Size(100, 0);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(100, 13);
